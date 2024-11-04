@@ -2,7 +2,7 @@
 use std::io;
 
 fn main() {
-    'loopw: loop {
+    loop {
         let mut user_input_temp = String::new();
         println!("Bitte Temperatur eingeben");
         io::stdin()
@@ -28,24 +28,23 @@ fn main() {
             Err(_) => continue,
         };
     if user_input > 3.0  {
-            println!("Bitte waehle eine Moeglichkeit zwischen 1 und 3");
-            continue 'loopw;
+            println!("Bitte wähle eine Möglichkeit zwischen 1 und 3");
+            continue;
         }
 
         if user_input == 1.0{
-            println!("Grad zu fahreneinheit wird gerechnet!");
-            let result: f64 = {
-                let usertemp: f64 = user_input_temp as f64;
-                usertemp * 1.8 + 32.0
+            println!("Grad zu Fahreneinheit wird gerechnet!");
+            let result = {
+
+                user_input_temp * 1.8 + 32.0
             };
-            println!("Das Ergebnis in fahreneinheit ist: {}", result);
+            println!("Das Ergebnis in Fahreneinheit ist: {}", result);
         }
+
         if user_input == 2.0{
-            println!("fahreneinheit zu Grad wird gerechnet!");
-            let result: f64 = {
-                let _usertemp: f64 = user_input_temp as f64;
-                let helpvalue: f64 = 0.0;
-                (helpvalue - 32.0 )/1.8
+            println!("Fahreneinheit zu Grad wird gerechnet!");
+            let result = {
+                (user_input_temp - 32.0 )/1.8
             };
             println!("Das Ergebnis in Grad ist: {}", result);
         }
