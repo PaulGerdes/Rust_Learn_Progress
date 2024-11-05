@@ -3,7 +3,7 @@ fn main() {
 }
 // Variable Scope
 fn s_test(){ // s is not declared now so not valid
-    let s = "hello";// from here s is declared and valid
+    let _s = "hello";// from here s is declared and valid
     // here you can do something with s
 
 }// this is out of the scope and now s is no more valid
@@ -31,11 +31,11 @@ fn string_in_string_mutable(){
 // Lets look at an Example:
 fn data_move() {
     let x = 5;
-    let y = x;// in this code the Variable x is getting copied to the variable y and both are
+    let _y = x;// in this code the Variable x is getting copied to the variable y and both are
                    // the same now!
 
     let s1 = String::from("hello");
-    let s2 = s1;// this string wich is the same s1 looks the same and you would think it
+    let _s2 = s1;// this string wich is the same s1 looks the same and you would think it
                        // would also work the same as at the integers but this is wrong!
     /*
     in reality you have the stack and heap and a string is stored in both!
