@@ -1,22 +1,61 @@
-name: Rust
+name: Rust CI for Multiple Projects
 
 on:
   push:
-    branches: [ "master" ]
+    branches:
+      - main  # Runs on push to the main branch
+      - 'feature/*'  # Runs on feature branches
   pull_request:
-    branches: [ "master" ]
-
-env:
-  CARGO_TERM_COLOR: always
+    branches:
+      - main   # Runs on pull request to the main branch
 
 jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
+  # Job for project 1
+  data_types:
+    runs-on: ubuntu-latest  # You can change this to any OS you'd like
     steps:
-    - uses: actions/checkout@v4
-    - name: Build
-      run: cargo build --verbose
-    - name: Run tests
-      run: cargo test --verbose
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Rust for project 1
+        uses: actions/setup-rust@v1
+
+      - name: Install dependencies for project 1
+        run: |
+          cd project-1
+          cargo fetch  # Fetch dependencies for project-1
+
+      - name: Run tests for project 1
+        run: |
+          cd project-1
+          cargo test
+
+      - name: Build project 1
+        run: |
+          cd project-1
+          cargo build --release
+
+  # Job for project 2
+  Example_Projects/number_sorter:
+    runs-on: ubuntu-latest  # Same as above
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Rust for project 2
+        uses: actions/setup-rust@v1
+
+      - name: Install dependencies for project 2
+        run: |
+          cd project-2
+          cargo fetch  # Fetch dependencies for project-2
+
+      - name: Run tests for project 2
+        run: |
+          cd project-2
+          cargo test
+
+      - name: Build project 2
+        run: |
+          cd project-2
+          cargo build --release
