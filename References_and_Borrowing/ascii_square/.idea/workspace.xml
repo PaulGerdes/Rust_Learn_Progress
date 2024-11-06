@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/../Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07516f2b-67c4-4327-8adf-a642313ef25a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/Temperature_converter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/Temperature_converter.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/Temperature_converter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/Temperature_converter.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/deps/Temperature_converter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/deps/Temperature_converter.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/deps/Temperature_converter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/deps/Temperature_converter.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/0vzigob3aqp8o2h95o1oxtqnv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/1p2ycm5vgm68ro7cmwlmgwssx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/1ykioiajqtcw8bhrdvq5d1q13.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/27m4ljqrxtync2lcg06djfkq2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/2oipsosiixutz9lghlzgtudi8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/2xrp2vmgturggwiyyl5ac4q4f.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/37obmdwiud28ibsn31fbq1wg1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/3z1mnndabx2vedcamho3rz7lm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/44onlnqqx9le9vekongdybczs.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/4auplxnp9muc9qh4qtglx7bkb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/5ffupaxqyjvjnmy0si0fg79ff.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/5i6nvm7oc93c1gblec298245j.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/5j0w9meufybj8aj77i285aqbu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/89g36aiw4to01lb9dkgs1ma0h.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/9izn290yl67feehl1typubv7h.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/a11cs2nnnarlue3yhtph0zarv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/a9nhp18zkvcj0qba7ypfsmhy8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/bm6wlowdmx7kjwhesbdkpr49o.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/bu2rwbqh7uqlut2uj6hzsetnl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/c8jofcuhfmh7mowk8sd37mtau.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/cb2vit4ew16fa7r7w1l74pcw2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/cswos347x6jdvhmnyn6nkmiwm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/cvkel02adw2iev2kkw43292l4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/d5fvs9jrf6p8d8wqlrhrqd1rf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/di4galrsfejfs2b66mhm3qxy8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/doltij8cu6wzjd0womvxjhmm8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/e5xundcbxr790pe1gzcraj7zd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/f0ekfi3ae9v1wjgm2qpn81oub.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j-9p4a431sl129nwr58faz8ykbv/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Example_Projects/Temperature_converter/target/debug/incremental/Temperature_converter-30idufmhm869q/s-h1hzf0ugem-1723i7j.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PaulGerdes&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PaulGerdes/Rust_Learn_Progress.git&quot;,
+    &quot;accountId&quot;: &quot;a4ad2479-f6f4-402e-adbd-8d93501a3850&quot;
+  }
+}</component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="evmflha4" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oR5wdtvw2hzn0DO7NeS98ALuiT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/paul-/projects/RustLernen/References_and_Borrowing",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Cargo.Run ascii_square">
+    <configuration name="Run ascii_square" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="buildProfileId" value="dev" />
+      <option name="command" value="run --package ascii_square --bin ascii_square" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test ascii_square" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="test --workspace" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07516f2b-67c4-4327-8adf-a642313ef25a" name="Changes" comment="" />
+      <created>1730819787952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730819787952</updated>
+      <workItem from="1730819788992" duration="632000" />
+      <workItem from="1730916045668" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
