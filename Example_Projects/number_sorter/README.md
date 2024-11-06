@@ -22,7 +22,7 @@ This project is a simple number sorting program written in Rust. The program gen
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/number-sorter.git
+    git clone https://github.com/PaulGerdes/Rust_Learn_Progress/tree/master/Example_Projects/number_sorter.git
     ```
 
 2. Navigate into the project directory:
