@@ -1,9 +1,16 @@
 use rand::Rng;
+use std::io;
 
 fn main() {
+
+    println!("gib an wie groß die größte Zahl sein soll!");
+    let mut spanne = String::new();
+    io::stdin().read_line(&mut spanne).expect("Failed to read line");
+    let spanne: i32 = spanne.trim().parse().expect("Bitte eine gültige Zahl eingeben");
+
     let mut numbers: [i32; 10] = [0; 10];
     for i in 0..numbers.len(){
-        numbers[i] = rand::thread_rng().gen_range(1..20);
+        numbers[i] = rand::thread_rng().gen_range(1..spanne);
         println!("{}", numbers[i]);
     }
     println!("\n");
