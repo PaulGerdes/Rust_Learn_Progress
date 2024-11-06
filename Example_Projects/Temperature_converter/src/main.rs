@@ -27,7 +27,7 @@ fn main() {
             Ok(num) => num,
             Err(_) => continue,
         };
-    if user_input > 3.0  {
+        if user_input > 3.0  {
             println!("Bitte wähle eine Möglichkeit zwischen 1 und 3");
             continue;
         }
